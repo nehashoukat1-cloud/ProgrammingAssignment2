@@ -1,5 +1,5 @@
 
-### Caching the Mean of a Vector
+#### Caching the Mean of a Vector
 
 
 <!-- -->
